@@ -1,0 +1,90 @@
+.intro{
+    font-style: oblique;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid;
+    }
+.header a{
+    
+    padding-left: 50;
+    
+}
+.space1{
+    display: flex;
+    justify-content: space-between;
+}
+.space2{
+    display: flex;
+    justify-content: space-between;
+}
+.camel img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+
+}
+.camel2{
+    background-color: white;
+    width: 300px;
+ 
+}
+.chameleon img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+}
+.chameleon2{
+    background-color: white;
+    width: 300px;
+
+}
+.cicada img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+}
+.cicada2{
+    background-color: white;
+    width: 300px;
+
+}
+.panda img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+}
+.panda2{
+    background-color: white;
+    width: 300px;
+ 
+}
+.pigeon img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+}
+.pigeon2{
+    background-color: white;
+    width: 300px;
+    
+}
+.pigeon img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+}
+.pigeon2{
+    background-color: white;
+    width: 300px;
+ 
+}
+.teddy img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+}
+.teddy2{
+    background-color: white;
+    width: 300px;
+     
+}
